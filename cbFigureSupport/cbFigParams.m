@@ -16,7 +16,7 @@ figParams.titleFontSize = 28;
 figParams.legendFontSize = 24;
 figParams.figType = {'pdf'};
 figParams.figDir = 'FigureOutput';
-figParams.sqSize = 800;
+figParams.sqSize = 600;
 figParams.aspect = 1000/800;
 
 figParams.xLimLow = [];
