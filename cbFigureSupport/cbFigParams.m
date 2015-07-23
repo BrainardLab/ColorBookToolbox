@@ -6,7 +6,7 @@ function figParams = cbFigParams
 % (c) David Brainard and Andrew Stockman, 2014
 
 
-figParams.fontName = 'Helvetica';
+figParams.fontName = 'Arial';
 figParams.markerSize = 26;
 figParams.lineWidth = 4;
 figParams.dashedLineWidth = 4;
