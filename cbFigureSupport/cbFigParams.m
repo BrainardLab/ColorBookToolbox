@@ -21,6 +21,7 @@ figParams.figType = {'pdf'};
 figParams.figDir = 'FigureOutput';
 figParams.sqSize = 600;
 figParams.aspect = 1000/800;
+figParams.subplotFontShrink = 10;
 
 figParams.xLimLow = [];
 figParams.xLimHigh = [];
@@ -30,3 +31,7 @@ figParams.yLimLow = [];
 figParams.yLimHigh = [];
 figParams.yTicks = [];
 figParams.yTickLabels = {};
+figParams.zLimLow = [];
+figParams.zLimHigh = [];
+figParams.zTicks = [];
+figParams.zTickLabels = {};
