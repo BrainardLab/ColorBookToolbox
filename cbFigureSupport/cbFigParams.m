@@ -8,7 +8,9 @@ function figParams = cbFigParams
 
 figParams.fontName = 'Arial';
 figParams.markerSize = 26;
+figParams.subplotMarkerShrink = 14;
 figParams.lineWidth = 4;
+figParams.subplotLineShrink = 2;
 figParams.dashedLineWidth = 4;
 figParams.axisFontSize = 24;
 figParams.axisLineWidth = 2;
