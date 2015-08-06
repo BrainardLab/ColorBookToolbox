@@ -19,4 +19,3 @@ else
     set(gcf,'Position',[100 100 round(theFigParams.aspect*theFigParams.sqSize) theFigParams.sqSize]);
 
 end
-set(gca,'FontName',theFigParams.fontName,'FontSize',theFigParams.axisFontSize,'LineWidth',theFigParams.axisLineWidth);

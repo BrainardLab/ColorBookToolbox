@@ -32,3 +32,4 @@ end
 if (~isempty(theFigParams.zTickLabels))
     set(gca,'YTickLabel',theFigParams.zTickLabels);
 end
+set(gca,'FontName',theFigParams.fontName,'FontSize',theFigParams.axisFontSize,'LineWidth',theFigParams.axisLineWidth);
