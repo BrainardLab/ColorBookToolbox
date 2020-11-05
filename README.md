@@ -1,5 +1,3 @@
-[![Build Status](http://brainard-jenkins.psych.upenn.edu/buildStatus/icon?job=ColorBookToolbox)](http://brainard-jenkins.psych.upenn.edu/job/ColorBookToolbox/)
-
 ColorBookToolbox
 ================ 
 
